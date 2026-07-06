@@ -2,7 +2,7 @@
 
 Build with the Omni Flash API using APIDot: cURL, Node.js, request shapes, polling, webhooks, and production notes.
 
-[Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/omni-flash) | [Model Page](https://apidot.ai/models/omni-flash) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
+[Try on APIDot](https://apidot.ai/models/omni-flash) | [Get API Key](https://apidot.ai/dashboard/api-key) | [API Docs](https://apidot.ai/docs/omni-flash) | [Pricing](https://apidot.ai/pricing) | [Main Examples](https://github.com/APIDotAI/apidot-examples)
 
 ## What this example shows
 
